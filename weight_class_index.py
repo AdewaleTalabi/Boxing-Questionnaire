@@ -1,6 +1,3 @@
-
-
-
 # dictionary
 list_of_divisions = {
 
