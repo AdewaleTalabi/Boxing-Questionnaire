@@ -1,10 +1,7 @@
 import numpy as np
-import numpy as np
 
 # Boxing divisions
 # variables
-
-import numpy as np
 
 atomweight_range = np.arange(0, 103, 1)
 strawweight_range = np.arange(103, 106, 1)
